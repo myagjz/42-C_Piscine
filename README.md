@@ -7,7 +7,7 @@ Ecole42
 
 ## Individual Projects
 | ## | Name | Directory | Exercises |
-|:----:|:-----------------------------------|:-------------:|:------------------:|:--------------:|
+|:----:|:-----------------------------------|:-------------:|:------------------:|
 |  00  |EXAM00  | [EXAM00/]     |[![myagiz's 42 C Piscine Exam 00 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2749892)](https://github.com/JaeSeoKim/badge42)
 
 
