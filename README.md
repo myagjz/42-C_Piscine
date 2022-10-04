@@ -14,3 +14,4 @@ Ecole42
 |  03  |FINAL EXAM  | [FINAL EXAM/]     |[![myagiz's 42 C Piscine Final Exam Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2788384)](https://github.com/JaeSeoKim/badge42)
 
 ## Individual Projects
+|  00  |Shell00  | [Shell00/]     |[![myagiz's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2736863)](https://github.com/JaeSeoKim/badge42)
