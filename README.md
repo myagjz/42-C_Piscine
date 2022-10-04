@@ -17,3 +17,4 @@ Ecole42
 | ## | Name | Directory | Exercises |
 |:----:|:-----------------------------------|:-------------:|:------------------:|
 |  00  |Shell00  | [Shell00/]     |[![myagiz's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2736863)](https://github.com/JaeSeoKim/badge42)
+|  01  |Shell01  | [Shell01/]     |[![myagiz's 42 C Piscine Shell 01 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2787081)](https://github.com/JaeSeoKim/badge42)
