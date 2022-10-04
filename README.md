@@ -25,4 +25,7 @@ Ecole42
 |  06  |C Piscine C04  | [C04/]     |[![myagiz's 42 C Piscine C 04 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2766564)](https://github.com/JaeSeoKim/badge42)
 |  07  |C Piscine C05  | [C05/]     |[![myagiz's 42 C Piscine C 05 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2769550)](https://github.com/JaeSeoKim/badge42)
 |  08  |C Piscine C06  | [C06/]     |[![myagiz's 42 C Piscine C 06 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2773333)](https://github.com/JaeSeoKim/badge42)
-|  08  |C Piscine Rush00  | [Rush00/]     |[![myagiz's 42 C Piscine Rush 00 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2742402)](https://github.com/JaeSeoKim/badge42)
+## Group Projects
+| ## | Name | Directory | Exercises |
+|:----:|:-----------------------------------|:-------------:|:------------------:|
+|  00  |C Piscine Rush00  | [Rush00/]     |[![myagiz's 42 C Piscine Rush 00 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2742402)](https://github.com/JaeSeoKim/badge42)
