@@ -1,5 +1,5 @@
 # Ecole42 Piscine
-Ecole42
+Ecole42 Piscine
 
 # Skills #
 
