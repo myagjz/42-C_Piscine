@@ -15,7 +15,7 @@
 ## Individual Projects
 | ## | Name | Exercises |
 |:----:|:-----------------------------------|:------------------:|
-|  00  |C Piscine Shell00  [![myagiz's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2736863)](https://github.com/JaeSeoKim/badge42)
+|  00  |C Piscine Shell00  |[![myagiz's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2736863)](https://github.com/JaeSeoKim/badge42)
 |  01  |C Piscine Shell01  |[![myagiz's 42 C Piscine Shell 01 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2787081)](https://github.com/JaeSeoKim/badge42)
 |  02  |C Piscine C00  |[![myagiz's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2742400)](https://github.com/JaeSeoKim/badge42)
 |  03  |C Piscine C01  |[![myagiz's 42 C Piscine C 01 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2745320)](https://github.com/JaeSeoKim/badge42)
