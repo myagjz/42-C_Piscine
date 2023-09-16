@@ -7,10 +7,10 @@
 ## Exams
 | ## | Name | Exercises |
 |:----:|:-----------------------------------|:------------------:|
-|  00  |EXAM00  |[![myagiz's 42 C Piscine Exam 00 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2749892)](https://github.com/JaeSeoKim/badge42)
-|  01  |EXAM01  |[![myagiz's 42 C Piscine Exam 01 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2757662)](https://github.com/JaeSeoKim/badge42)
-|  02  |EXAM02  |[![myagiz's 42 C Piscine Exam 02 Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2768835)](https://github.com/JaeSeoKim/badge42)
-|  03  |FINAL EXAM  |[![myagiz's 42 C Piscine Final Exam Score](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2788384)](https://github.com/JaeSeoKim/badge42)
+|  00  |  EXAM00      |  64  |
+|  01  |  EXAM01      |  48  |
+|  02  |  EXAM02      |  42  |
+|  03  |  FINAL EXAM  |  48  |
 
 ## Individual Projects
 | ## | Name | Exercises |
